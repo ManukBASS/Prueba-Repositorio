@@ -1,1 +1,3 @@
-console.log();
+let nombre = 'Manu'
+
+console.log(nombre);
